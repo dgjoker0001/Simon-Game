@@ -1,1 +1,4 @@
 # Simon-Game
+
+jQuery used
+
